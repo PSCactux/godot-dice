@@ -1,0 +1,13 @@
+# Godot 4
+.godot/
+/android/
+*.translation
+export_credentials.cfg
+
+# Exports and capture scratch
+/build/
+/frames/
+
+# OS / editor
+.DS_Store
+*.tmp
